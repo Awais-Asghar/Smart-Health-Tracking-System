@@ -114,7 +114,7 @@ void loop() {
   Serial.print(a.acceleration.y);
   Serial.print(", Z: ");
   Serial.print(a.acceleration.z);
-  Serial.println(" m/s^2");
+  Serial.println(" m/s^2 ");
 
   Serial.print("Rotation X: ");
   Serial.print(g.gyro.x);
