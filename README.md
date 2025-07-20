@@ -3,7 +3,7 @@
 ![Microcontroller](https://img.shields.io/badge/microcontroller-Arduino-yellowgreen.svg)
 ![Sensors](https://img.shields.io/badge/sensors-ECG%20%7C%20SpO2%20%7C%20Temp%20%7C%20MPU6050-orange.svg)
 ![Language](https://img.shields.io/badge/language-C%2FC%2B%2B-00599C.svg)
-![IDE](https://img.shields.io/badge/IDE-Arduino%20IDE-success.svg)
+![IDE](https://img.shields.io/badge/IDE-Arduino%20IDE-violet.svg)
 
 ![Image](https://github.com/user-attachments/assets/402a3265-702e-4627-a808-f5ab32c5ffce)
 
